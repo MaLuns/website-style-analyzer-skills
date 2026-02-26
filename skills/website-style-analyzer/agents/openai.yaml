@@ -1,0 +1,13 @@
+interface:
+  display_name: "Website Style Analyzer"
+  short_description: "Extract website color and component style systems"
+  default_prompt: "Use $website-style-analyzer with:\ntarget_url: https://example.com\nmax_pages: 30\ninclude_subdomains: true\ntheme: light\noverwrite: false\nreport_mode: final_only"
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "chrome-devtools"
+      description: "Browser MCP for navigation and DOM/CSS inspection"
+
+policy:
+  allow_implicit_invocation: false
