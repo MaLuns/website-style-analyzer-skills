@@ -14,7 +14,7 @@
 1. 在 Codex 中输入：
 
 ```text
-Install skill from https://github.com/<owner>/<repo>/tree/main/skills/website-style-analyzer
+Install skill from https://github.com/MaLuns/website-style-analyzer-skills/tree/main/skills/website-style-analyzer
 ```
 
 2. 重启 Codex。

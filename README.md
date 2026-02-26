@@ -14,7 +14,7 @@ Key capabilities:
 1. In Codex, run:
 
 ```text
-Install skill from https://github.com/<owner>/<repo>/tree/main/skills/website-style-analyzer
+Install skill from https://github.com/MaLuns/website-style-analyzer-skills/tree/main/skills/website-style-analyzer
 ```
 
 2. Restart Codex.
