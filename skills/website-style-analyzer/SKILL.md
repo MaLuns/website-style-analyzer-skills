@@ -16,6 +16,8 @@ Run preflight first, then initialize the output directory from invocation parame
 
 ## Invocation Contract (Required)
 
+When the user uses this skill, you need to extract the corresponding parameters based on the information provided by the user. The format requirements for the corresponding parameters are as follows:
+
 Accept only the following format:
 
 ```text

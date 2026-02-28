@@ -42,10 +42,6 @@ report_mode: final_only
 - `page-inventory.md`
 - `components/*.md`
 
-说明：
-- `skills/website-style-analyzer/assets/*` 仅为参考模板。
-- 模板文件不会被原样复制到输出目录。
-
 ## 手动安装（可选）
 
 1. 将 `skills/website-style-analyzer` 复制到：

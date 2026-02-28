@@ -42,10 +42,6 @@ Generated under `output_dir` (default `./style-guide`):
 - `page-inventory.md`
 - `components/*.md`
 
-Notes:
-- Files under `skills/website-style-analyzer/assets/*` are reference templates only.
-- Templates should not be copied verbatim into output.
-
 ## Manual Install (Optional)
 
 1. Copy `skills/website-style-analyzer` to:
